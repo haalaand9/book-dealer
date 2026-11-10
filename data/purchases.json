@@ -1,0 +1,6323 @@
+{
+  "generatedAt": "2026-11-09",
+  "windowDays": 5,
+  "books": [
+    {
+      "id": "B001",
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "genre": "General",
+      "price": 21.67,
+      "cover": "https://covers.openlibrary.org/b/id/15254465-M.jpg",
+      "description": "When nineteen-year-old huntress Feyre kills a wolf in the woods, a terrifying creature arrives to demand retribution. Dragged to a treacherous magical land she knows about only from legends, Feyre discovers that her captor is not truly a beast, but one of the lethal, immortal fae",
+      "publishedYear": 2013,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B002",
+      "title": "A Court of Mist and Fury",
+      "author": "Sarah J. Maas",
+      "genre": "General",
+      "price": 14.3,
+      "cover": "https://covers.openlibrary.org/b/id/14315081-M.jpg",
+      "description": "Feyre has undergone more trials than one human woman can carry in her heart. Though she's now been granted the powers and lifespan of the High Fae, she is haunted by her time Under the Mountain and the terrible deeds she performed to save the lives of Tamlin and his people. As he",
+      "publishedYear": 2014,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B003",
+      "title": "Tower of Dawn",
+      "author": "Sarah J. Maas",
+      "genre": "General",
+      "price": 17.3,
+      "cover": "https://covers.openlibrary.org/b/id/8506737-M.jpg",
+      "description": "Chaol Westfall has always defined himself by his unwavering loyalty, his strength, and his position as the captain of the Guard. But all of that has changed since the glass castle shattered, since his men were slaughtered, since the king of Adarlan spared him from a killing blow,",
+      "publishedYear": 2017,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B004",
+      "title": "Heir of Fire",
+      "author": "Sarah J. Maas",
+      "genre": "General",
+      "price": 16.68,
+      "cover": "https://covers.openlibrary.org/b/id/9318480-M.jpg",
+      "description": "Celaena has survived deadly contests and shattering heartbreak-but at an unspeakable cost. Now, she must travel to a new land to confront her darkest truth\u2026a truth about her heritage that could change her life-and her future-forever. Meanwhile, brutal and monstrous forces are gat",
+      "publishedYear": 2014,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B005",
+      "title": "The Assassin\u2019s Blade",
+      "author": "Sarah J. Maas",
+      "genre": "General",
+      "price": 22.84,
+      "cover": "https://covers.openlibrary.org/b/id/7794980-M.jpg",
+      "description": "Celaena Sardothien owes her reputation to Arobynn Hamel. He gave her a home at the Assassins' Guild and taught her the skills she needed to survive. Arobynn's enemies stretch far and wide - from Adarlan's rooftops and its filthy dens, to remote islands and hostile deserts. Celaen",
+      "publishedYear": 2014,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B006",
+      "title": "Throne of Glass",
+      "author": "Sarah J. Maas",
+      "genre": "General",
+      "price": 22.12,
+      "cover": "https://covers.openlibrary.org/b/id/13312488-M.jpg",
+      "description": "Lethal. Loyal. Legendary. Enter the world of Throne of Glass with the first book in the #1 bestselling series by Sarah J. Maas. In a land without magic, an assassin is summoned to the castle. She has no love for the vicious king who rules from his throne of glass, but she has not",
+      "publishedYear": 2012,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B007",
+      "title": "Looking for Alaska",
+      "author": "John Green",
+      "genre": "General",
+      "price": 24.71,
+      "cover": "https://covers.openlibrary.org/b/id/12614602-M.jpg",
+      "description": "Before. Miles \u201cPudge\u201d Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave \u201cthe Great Perhaps\u201d even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-b",
+      "publishedYear": 2005,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B008",
+      "title": "Turtles All the Way Down",
+      "author": "John Green",
+      "genre": "General",
+      "price": 15.04,
+      "cover": "https://covers.openlibrary.org/b/id/8283871-M.jpg",
+      "description": "**SIXTEEN-YEAR-OLD AZA NEVER INTENDED** to pursue the mystery of fugitive billionaire Russell Pickett, but there's a hundred-thousand-dollar reward at sake and her Best and Most Fearless Friend, Daisy, is eager to investigate. So together, they navigate the short distance and bro",
+      "publishedYear": 2017,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B009",
+      "title": "Paper Towns",
+      "author": "John Green",
+      "genre": "General",
+      "price": 19.06,
+      "cover": "https://covers.openlibrary.org/b/id/5731773-M.jpg",
+      "description": "One month before graduating from his Central Florida high school, Quentin \"Q\" Jacobsen basks in the predictable boringness of his life until the beautiful and exciting Margo Roth Spiegelman, Q's neighbor and classmate, takes him on a midnight adventure and then mysteriously disap",
+      "publishedYear": 2008,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B010",
+      "title": "An Abundance of Katherines",
+      "author": "John Green",
+      "genre": "General",
+      "price": 14.36,
+      "cover": "https://covers.openlibrary.org/b/id/14559681-M.jpg",
+      "description": "Katherine V thought boys were gross Katherine X just wanted to be friends Katherine XVIII dumped him in an e-mail K-19 broke his heart When it comes to relationships, Colin Singleton's type happens to be girls named Katherine. And when it comes to girls named Katherine, Colin is ",
+      "publishedYear": 2006,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B011",
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "genre": "General",
+      "price": 16.62,
+      "cover": "https://covers.openlibrary.org/b/id/7418786-M.jpg",
+      "description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is",
+      "publishedYear": 2010,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B012",
+      "title": "Will Grayson, Will Grayson",
+      "author": "John Green",
+      "genre": "General",
+      "price": 20.06,
+      "cover": "https://covers.openlibrary.org/b/id/12358776-M.jpg",
+      "description": "One cold night, in a most unlikely corner of Chicago, two teens\u2014both named Will Grayson\u2014are about to cross paths. As their worlds collide and intertwine, the Will Graysons find their lives going in new and unexpected directions, building toward romantic turns-of-heart and the epi",
+      "publishedYear": 2009,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B013",
+      "title": "The Hate U Give",
+      "author": "Angie Thomas",
+      "genre": "General",
+      "price": 14.32,
+      "cover": "https://covers.openlibrary.org/b/id/11521588-M.jpg",
+      "description": "The Hate U Give is a 2017 young adult novel by Angie Thomas. It is Thomas's debut novel, expanded from a short story she wrote in college in reaction to the police shooting of Oscar Grant. The book is narrated by Starr Carter, a 16-year-old black girl from a poor neighborhood who",
+      "publishedYear": 2017,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B014",
+      "title": "On The Come Up",
+      "author": "Angie Thomas",
+      "genre": "General",
+      "price": 16.39,
+      "cover": "https://covers.openlibrary.org/b/id/8588088-M.jpg",
+      "description": "Insightful, unflinching, and full of heart, On the Come Up is an ode to hip hop from one of the most influential literary voices of a generation. It is the story of fighting for your dreams, even as the odds are stacked against you; and about how, especially for young black peopl",
+      "publishedYear": 2019,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B015",
+      "title": "Concrete Rose",
+      "author": "Angie Thomas",
+      "genre": "General",
+      "price": 21.8,
+      "cover": "https://covers.openlibrary.org/b/id/12446801-M.jpg",
+      "description": "If there\u2019s one thing seventeen-year-old Maverick Carter knows, it\u2019s that a real man takes care of his family. As the son of a former gang legend, Mav does that the only way he knows how: dealing for the King Lords. With this money he can help his mom, who works two jobs while his",
+      "publishedYear": 2021,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B016",
+      "title": "Blackout",
+      "author": "Dhonielle Clayton",
+      "genre": "General",
+      "price": 20.54,
+      "cover": "https://covers.openlibrary.org/b/id/11328047-M.jpg",
+      "description": "nyt:young-adult-hardcover=2021-07-11 New York Times bestseller Young adult fiction, people & places, united states, african american & black Young adult fiction, lifestyles, city & town life Young adult fiction, romance, contemporary",
+      "publishedYear": 2019,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B017",
+      "title": "Everything, Everything",
+      "author": "Nicola Yoon",
+      "genre": "General",
+      "price": 16.65,
+      "cover": "https://covers.openlibrary.org/b/id/8140499-M.jpg",
+      "description": "The story of a teenage girl who's literally allergic to the outside world. When a new family moves in next door, she begins a complicated romance that challenges everything she's ever known. The narrative unfolds via vignettes, diary entries, texts, charts, lists, illustrations, ",
+      "publishedYear": 2015,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B018",
+      "title": "The Sun is Also a Star",
+      "author": "Nicola Yoon",
+      "genre": "General",
+      "price": 21.07,
+      "cover": "https://covers.openlibrary.org/b/id/8352503-M.jpg",
+      "description": "Natasha: I\u2019m a girl who believes in science and facts. Not fate. Not destiny. Or dreams that will never come true. I\u2019m definitely not the kind of girl who meets a cute boy on a crowded New York City street and falls in love with him. Not when my family is twelve hours away from b",
+      "publishedYear": 2016,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B019",
+      "title": "Instructions for Dancing",
+      "author": "Nicola Yoon",
+      "genre": "General",
+      "price": 23.71,
+      "cover": "https://covers.openlibrary.org/b/id/10832954-M.jpg",
+      "description": "nyt:young-adult-hardcover=2021-06-20 New York Times bestseller New York Times reviewed Young adult fiction, social themes, dating & sex Young adult fiction, people & places, united states, african american & black Young adult fiction, romance, contemporary",
+      "publishedYear": 2021,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B020",
+      "title": "Fresh Ink",
+      "author": "Lamar Giles",
+      "genre": "General",
+      "price": 14.08,
+      "cover": "https://covers.openlibrary.org/b/id/15258264-M.jpg",
+      "description": "Careful--you are holding fresh ink. And not hot-off-the-press, still-drying-in-your-hands ink. Instead, you are holding twelve stories with endings that are still being written--whose next chapters are up to you. Because these stories are meant to be read. And shared. Thirteen of",
+      "publishedYear": 2019,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B021",
+      "title": "Simon vs. the Homo Sapiens Agenda",
+      "author": "Becky Albertalli",
+      "genre": "General",
+      "price": 23.67,
+      "cover": "https://covers.openlibrary.org/b/id/12303551-M.jpg",
+      "description": "Sixteen-year-old and not-so-openly gay Simon Spier prefers to save his drama for the school musical. But when an email falls into the wrong hands, his secret is at risk of being thrust into the spotlight. Now Simon is actually being blackmailed: if he doesn\u2019t play wingman for cla",
+      "publishedYear": 2015,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B022",
+      "title": "What If It's Us",
+      "author": "Becky Albertalli",
+      "genre": "General",
+      "price": 22.38,
+      "cover": "https://covers.openlibrary.org/b/id/12293685-M.jpg",
+      "description": "Arthur is only in New York for the summer, but if Broadway has taught him anything, it\u2019s that the universe can deliver a showstopping romance when you least expect it. Ben thinks the universe needs to mind its business. If the universe had his back, he wouldn\u2019t be on his way to t",
+      "publishedYear": 2018,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B023",
+      "title": "History Is All You Left Me",
+      "author": "Adam Silvera",
+      "genre": "General",
+      "price": 18.08,
+      "cover": "https://covers.openlibrary.org/b/id/8816246-M.jpg",
+      "description": "Secrets are revealed as OCD-afflicted Griffin grieves for his first love, Theo, who died in a drowning accident. Even though Theo had moved to California for college and started seeing Jackson, Griffin never doubted Theo would come back to him when the time was right. But when Th",
+      "publishedYear": 2017,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B024",
+      "title": "Imogen, Obviously",
+      "author": "Becky Albertalli",
+      "genre": "General",
+      "price": 15.87,
+      "cover": "https://covers.openlibrary.org/b/id/13284999-M.jpg",
+      "description": "Imogen Scott may be hopelessly heterosexual, but she\u2019s got the World\u2019s Greatest Ally title locked down. She's never missed a Pride Alliance meeting. She knows more about queer media discourse than her very queer little sister. She even has two queer best friends. There's Gretchen",
+      "publishedYear": 2023,
+      "isbn": "",
+      "subjects": []
+    },
+    {
+      "id": "B025",
+      "title": "Leah on the offbeat",
+      "author": "Becky Albertalli",
+      "genre": "General",
+      "price": 25.49,
+      "cover": "https://covers.openlibrary.org/b/id/8797665-M.jpg",
+      "description": "Leah Burke girl-band drummer, master of deadpan, and Simon Spier s best friend takes center stage in this novel of first love and senior-year angst.",
+      "publishedYear": 2018,
+      "isbn": "",
+      "subjects": []
+    }
+  ],
+  "purchases": [
+    {
+      "bookId": "B001",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B001",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B002",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B003",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B004",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B005",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B006",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B007",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B008",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B009",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B010",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B011",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B012",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B013",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B014",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B015",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B016",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B017",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B018",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B019",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B020",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B021",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B022",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B023",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B024",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-05",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-06",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-07",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-08",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-09",
+      "quantity": 1
+    },
+    {
+      "bookId": "B025",
+      "date": "2026-11-09",
+      "quantity": 1
+    }
+  ]
+}

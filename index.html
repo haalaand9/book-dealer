@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BookDealer | Top 25</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="brand-wrap">
+          <div class="brand-mark">B</div>
+          <div>
+            <p class="eyebrow">BookDealer</p>
+            <h1>Top 25 American teen favorites</h1>
+          </div>
+        </div>
+        <div class="range-panel">
+          <span class="range-label">Sales window</span>
+          <strong id="rangeLabel">Loading...</strong>
+          <button id="audioToggle" class="audio-toggle" type="button" aria-label="Toggle lo-fi music">
+            ▶ Lo-fi on
+          </button>
+        </div>
+      </header>
+
+      <section class="headline-stats">
+        <div class="stat-card">
+          <span>Top title</span>
+          <strong id="topTitle">—</strong>
+        </div>
+        <div class="stat-card">
+          <span>Sales in 5 days</span>
+          <strong id="totalSales">—</strong>
+        </div>
+        <div class="stat-card">
+          <span>Average per title</span>
+          <strong id="avgSales">—</strong>
+        </div>
+      </section>
+
+      <main>
+        <section id="bookGrid" class="book-grid" aria-live="polite"></section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
