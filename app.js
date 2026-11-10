@@ -177,6 +177,7 @@ const render = (dataset) => {
         ? book.description
         : 'Popular book data pulled from OpenLibrary.';
 
+      const preview = description.length > 500 ? `${description.slice(0, 500)}…` : description;
       const published = book.publishedYear ? ` • ${book.publishedYear}` : '';
       const vibeLabel = ['teen favorite', 'cozy binge', 'late-night read', 'dreamy vibe', 'spark notes'][index % 5];
 
@@ -187,7 +188,7 @@ const render = (dataset) => {
           <div class="book-info">
             <h2>${escapeHtml(book.title)}</h2>
             <p class="author">by ${escapeHtml(book.author)}</p>
-            <p class="summary summary-preview">${escapeHtml(description)}</p>
+            <p class="summary summary-preview">${escapeHtml(preview)}</p>
             <div class="summary-actions">
               <button class="summary-toggle" type="button" data-book="${escapeHtml(book.title)}">
                 Show summary
