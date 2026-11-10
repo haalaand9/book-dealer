@@ -177,7 +177,6 @@ const render = (dataset) => {
         ? book.description
         : 'Popular book data pulled from OpenLibrary.';
 
-      const preview = description.length > 120 ? `${description.slice(0, 120)}…` : description;
       const published = book.publishedYear ? ` • ${book.publishedYear}` : '';
       const vibeLabel = ['teen favorite', 'cozy binge', 'late-night read', 'dreamy vibe', 'spark notes'][index % 5];
 
@@ -188,7 +187,7 @@ const render = (dataset) => {
           <div class="book-info">
             <h2>${escapeHtml(book.title)}</h2>
             <p class="author">by ${escapeHtml(book.author)}</p>
-            <p class="summary summary-preview">${escapeHtml(preview)}</p>
+            <p class="summary summary-preview">${escapeHtml(description)}</p>
             <div class="summary-actions">
               <button class="summary-toggle" type="button" data-book="${escapeHtml(book.title)}">
                 Show summary
@@ -233,6 +232,7 @@ fetch('data/purchases.json')
         panel.hidden = !isHidden;
         button.textContent = isHidden ? 'Hide summary' : 'Show summary';
         preview.hidden = isHidden;
+        preview.textContent = isHidden ? preview.textContent : preview.textContent;
       });
     });
   })
